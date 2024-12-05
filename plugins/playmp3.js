@@ -1,4 +1,4 @@
-/*const axios = require('axios');
+const axios = require('axios');
 
 let handler = async (m, { args }) => {
     if (args.length === 0) {
